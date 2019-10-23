@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RNRangeSlider_Tests' do
+  pod 'RNRangeSlider', :path => '../'
+  
+  
+end
