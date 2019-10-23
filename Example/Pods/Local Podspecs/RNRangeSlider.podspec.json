@@ -1,0 +1,22 @@
+{
+  "name": "RNRangeSlider",
+  "version": "0.1.0",
+  "summary": "A short description of RNRangeSlider.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ismnoiet/RNRangeSlider",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ismnoiet": "ismnoiet@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ismnoiet/RNRangeSlider.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RNRangeSlider/Classes/**/*"
+}

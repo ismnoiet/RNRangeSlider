@@ -24,14 +24,14 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/ismnoiet/RNRangeSlider'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ismnoiet' => 'ham.ism.official@gmail.com' }
+  s.author           = { 'ismnoiet' => 'ismnoiet@gmail.com' }
   s.source           = { :git => 'https://github.com/ismnoiet/RNRangeSlider.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'RNRangeSlider/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'RNRangeSlider' => ['RNRangeSlider/Assets/*.png']
   # }

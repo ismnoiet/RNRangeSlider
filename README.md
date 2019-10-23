@@ -22,7 +22,7 @@ pod 'RNRangeSlider'
 
 ## Author
 
-ismnoiet, ham.ism.official@gmail.com
+ismnoiet, <ismnoiet@gmail.com>
 
 ## License
 

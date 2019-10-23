@@ -1,0 +1,16 @@
+PODS:
+  - RNRangeSlider (0.1.0)
+
+DEPENDENCIES:
+  - RNRangeSlider (from `../`)
+
+EXTERNAL SOURCES:
+  RNRangeSlider:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RNRangeSlider: 6eea13ec8d306505efeb75d49058cf937b881e9a
+
+PODFILE CHECKSUM: f2f902bebd6f50d2d5eab94ac9559c393f23639b
+
+COCOAPODS: 1.5.3
